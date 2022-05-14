@@ -6,6 +6,13 @@
         "favouriteMovie": "The Room",
         "favouriteNumber": "BN<1234>"
     },
+    "NewUser_create": {
+        "name": "Alex",
+        "password": "Typescorrer1234",
+        "favouriteFruit": "Orange",
+        "favouriteMovie": "Pulpfiction",
+        "favouriteNumber": "DK454500"
+    },
     "dummytree": {
         "password": "test1",
         "favouriteFruit": "Mango",
