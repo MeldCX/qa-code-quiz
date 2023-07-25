@@ -35,3 +35,5 @@
 //     }
 //   }
 // }
+
+/// <reference types="cypress" />
