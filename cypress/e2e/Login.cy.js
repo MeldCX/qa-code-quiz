@@ -36,7 +36,7 @@ describe('Verify Login Page',()=>{
 
     })
 
-    it.only('Verify Username and password with invalid characters',()=>{
+    it('Verify Username and password with invalid characters',()=>{
 
         cy.visit(url)
 
