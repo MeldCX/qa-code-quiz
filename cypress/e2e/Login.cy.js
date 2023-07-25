@@ -53,6 +53,24 @@ describe('Verify Login Page',()=>{
 
 
     })
+
+
+    it('Verify Username and password without inputs',()=>{
+
+        cy.visit(url)
+
+        
+         //click on login
+         cy.get(".sc-bZQynM.cGmBje").click()
+
+
+
+
+
+
+    })
+
+
 })
 
 Cypress.on('uncaught:exception', (err, runnable) => {
